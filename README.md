@@ -37,6 +37,10 @@ The stock ticker data is sourced directly from **Google Sheets**, allowing for s
 Whenever updates are made to the sheet, the system **automatically synchronizes** the changes — ensuring that all screening criteria are applied to the most recent data.
 
 
+
+
+
+
 ## If Program can not Run , Type ...
 
 `!pip install numpy==1.26.4`
