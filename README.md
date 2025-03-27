@@ -36,10 +36,7 @@ The stock ticker data is sourced directly from **Google Sheets**, allowing for s
 
 Whenever updates are made to the sheet, the system **automatically synchronizes** the changes — ensuring that all screening criteria are applied to the most recent data.
 
-
-
-
-
+<br>
 
 ## If Program can not Run , Type ...
 
