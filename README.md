@@ -35,3 +35,17 @@ To identify uptrending stocks in the US market, the following **Technical Analys
 The stock ticker data is sourced directly from **Google Sheets**, allowing for seamless integration with the screening system.
 
 Whenever updates are made to the sheet, the system **automatically synchronizes** the changes — ensuring that all screening criteria are applied to the most recent data.
+
+
+## If Program can not Run , Type ...
+
+`!pip install numpy==1.26.4`
+`!pip install pandas==2.2.3`
+`!pip install yfinance==0.2.54`
+`!pip install pandas-ta==0.3.14b0`
+`!pip install plotly==5.20.0`
+`!pip install gspread==6.2.0`
+`!pip install oauth2client==4.1.3`
+`!pip install matplotlib`
+
+### Before Import Libary
